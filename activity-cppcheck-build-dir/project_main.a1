@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<analyzerinfo checksum="1512855794">
+  <FileInfo check="ctu">
+<function-call call-id="C:/Users/Arrijith/Documents/GitHub/Embedded_LTTS/inc/blinky.h:37:6" call-funcname="change_led_state" call-argnr="1" file="project_main.c" line="57" col="25" call-argexpr="0x00" call-argvaluetype="0" call-argvalue="0"/>  </FileInfo>
+  <FileInfo check="CheckUnusedFunctions">
+    <functiondecl functionName="peripheral_init" lineNumber="20"/>
+    <functiondecl functionName="change_led_state" lineNumber="31"/>
+    <functiondecl functionName="main" lineNumber="43"/>
+    <functioncall functionName="PORTB0"/>
+    <functioncall functionName="change_led_state"/>
+    <functioncall functionName="delay_ms"/>
+    <functioncall functionName="for"/>
+    <functioncall functionName="if"/>
+    <functioncall functionName="peripheral_init"/>
+  </FileInfo>
+</analyzerinfo>

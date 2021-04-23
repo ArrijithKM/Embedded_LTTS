@@ -1,0 +1,3 @@
+peripheral_init
+change_led_state
+main call:[change_led_state,delay_ms,peripheral_init] noreturn:[delay_ms]
