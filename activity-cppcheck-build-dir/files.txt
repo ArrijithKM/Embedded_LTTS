@@ -1,2 +1,0 @@
-project_main.a1::project_main.c
-user_utils.a1::C:/Users/Arrijith/Documents/GitHub/Embedded_LTTS/src/user_utils.c

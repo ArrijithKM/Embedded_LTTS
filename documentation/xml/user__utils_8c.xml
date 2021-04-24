@@ -8,7 +8,7 @@
         <label>user_utils.h</label>
       </node>
       <node id="1">
-        <label>src/user_utils.c</label>
+        <label>C:/Users/Arrijith/Documents/GitHub/Embedded_LTTS/src/user_utils.c</label>
         <link refid="user__utils_8c"/>
         <childnode refid="2" relation="include">
         </childnode>
@@ -30,7 +30,7 @@
         </detaileddescription>
         <inbodydescription>
         </inbodydescription>
-        <location file="src/user_utils.c" line="4" column="6" bodyfile="src/user_utils.c" bodystart="4" bodyend="11"/>
+        <location file="C:/Users/Arrijith/Documents/GitHub/Embedded_LTTS/src/user_utils.c" line="4" column="6" bodyfile="C:/Users/Arrijith/Documents/GitHub/Embedded_LTTS/src/user_utils.c" bodystart="4" bodyend="11"/>
       </memberdef>
       </sectiondef>
     <briefdescription>
@@ -50,6 +50,6 @@
 <codeline lineno="10"><highlight class="normal"><sp/><sp/><sp/><sp/>}</highlight></codeline>
 <codeline lineno="11"><highlight class="normal">}</highlight></codeline>
     </programlisting>
-    <location file="src/user_utils.c"/>
+    <location file="C:/Users/Arrijith/Documents/GitHub/Embedded_LTTS/src/user_utils.c"/>
   </compounddef>
 </doxygen>
