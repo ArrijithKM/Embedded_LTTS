@@ -1,3 +1,13 @@
+/**
+ * @file led.h
+ * @author Arrijith KM (arrijithkm@gmail.com)
+ * @brief Header files to declare LED related functions and defining some macros
+ * @version 0.1
+ * @date 2021-04-29
+ * 
+ * @copyright Copyright (c) 2021
+ * 
+ */
 #ifndef LED_H_INCLUDED
 #define LED_H_INCLUDED
 
