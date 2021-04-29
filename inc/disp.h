@@ -5,7 +5,7 @@
 #include<util/delay.h>
 
 void USARTinit(uint16_t );
-char USARTreadChar();
+//char USARTreadChar();
 void USARTwriteChar(char );
 void displayTemp(uint16_t );
 

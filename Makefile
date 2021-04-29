@@ -42,6 +42,7 @@ $(BUILD_DIR):
 # Create directory to store the built files
 	mkdir $(BUILD_DIR)
 
+
 analysis: $(SRC)
 # Analyse the code using Cppcheck command line utility
 	cppcheck --enable=all $^

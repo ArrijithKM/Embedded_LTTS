@@ -11,7 +11,7 @@ void USARTinit(uint16_t ubbr)
     UCSR0B = (1<<RXEN0) | (1<<TXEN0) | (1<<RXCIE0) | (1<<TXCIE0);
 }
 
-char USARTreadChar()
+/*char USARTreadChar()
 {
     while(!(UCSR0A & (1<<RXC0)))
     {
@@ -19,7 +19,7 @@ char USARTreadChar()
     }
     return UDR0;
 
-}
+}*/
 
 void USARTwriteChar(char data)
 {

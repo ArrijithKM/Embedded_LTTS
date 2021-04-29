@@ -29,7 +29,7 @@ ISR(TIMER0_OVF_vect)
     tot_overflow++;
 }
 
-void ledToggle(void)
+/*void ledToggle(void)
 {
     if(tot_overflow>=12)
     {
@@ -40,7 +40,7 @@ void ledToggle(void)
             tot_overflow = 0;
         }
     }
-}
+}*/
 int ledSwitch(void)
 {
     if((!(PIND&(1<<PD0))) && (!(PIND&(1<<PD1))))
