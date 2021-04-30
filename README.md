@@ -12,3 +12,9 @@ This repository is for Embedded miniproject. Project is "AUTOMATIC CAR HEATER" .
 * Step 2 :  To get values from potentiometer
 * Step 3 :  To generate PWM signals based on the potentiometer value
 * Step 4 :  To display the temperature set by user
+
+## Code
+All codes are provided in src folder and main.c is in main page.
+
+## Simulation
+Simulation files and screenshot of working simulations are provided.
